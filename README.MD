@@ -12,3 +12,15 @@
 [MagicaVoxel](https://ephtracy.github.io/) - Voxel Creator (3D Pixel) - Koennte ein interessanter Graphik-Style sein<br>
 
 ## Audio
+[ChucK](https://github.com/ccrma/chuck) - Proceduale Audio/Musik generierung (koennte interessant fuer dynamische Musik sein)
+[Strudel](https://strudel.cc/) - aehnlich zu ChucK
+[Cakewalk](https://www.cakewalk.com/) - vollstaendige DAW
+
+## Infos
+  - [r/gamedev](https://www.reddit.com/r/gamedev/)
+  - [r/gamedesign](https://www.reddit.com/r/gamedesign/)
+  - [r/leveldesign](https://www.reddit.com/r/leveldesign/)
+  - [r/gameassets](https://www.reddit.com/r/gameassets/)
+  - [r/devblogs](https://www.reddit.com/r/devblogs/)
+
+## Libraries
